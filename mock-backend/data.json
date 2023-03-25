@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "surname": "Doe",
+      "email": "johndoe@amusnetgaming.com",
+      "status": "ACTIVE",
+      "balance": 500,
+      "registrationTimestamp": "2023-03-06T18:18:22.273Z"
+    },
+    {
+      "id": 245,
+      "name": "Alice",
+      "surname": "Johnson",
+      "email": "alicejohnson@example.com",
+      "status": "ACTIVE",
+      "balance": 350,
+      "registrationTimestamp": "2022-09-18T12:36:41.273Z"
+    },
+    {
+      "id": 37,
+      "name": "Bob",
+      "surname": "Smith",
+      "email": "bobsmith@example.com",
+      "status": "ACTIVE",
+      "balance": 650,
+      "registrationTimestamp": "2022-05-10T08:55:12.273Z"
+    },
+    {
+      "id": 801,
+      "name": "Sarah",
+      "surname": "Williams",
+      "email": "sarahwilliams@example.com",
+      "status": "DISABLED",
+      "balance": 750,
+      "registrationTimestamp": "2022-12-03T21:02:27.273Z"
+    },
+    {
+      "id": 169,
+      "name": "Michael",
+      "surname": "Brown",
+      "email": "michaelbrown@example.com",
+      "status": "ACTIVE",
+      "balance": 250,
+      "registrationTimestamp": "2023-02-21T06:46:59.273Z"
+    },
+    {
+      "id": 392,
+      "name": "Emily",
+      "surname": "Jones",
+      "email": "emilyjones@example.com",
+      "status": "ACTIVE",
+      "balance": 480,
+      "registrationTimestamp": "2022-11-11T18:30:01.273Z"
+    },
+    {
+      "id": 555,
+      "name": "Jacob",
+      "surname": "Garcia",
+      "email": "jacobgarcia@example.com",
+      "status": "ACTIVE",
+      "balance": 900,
+      "registrationTimestamp": "2022-07-02T14:57:09.273Z"
+    },
+    {
+      "id": 732,
+      "name": "Ava",
+      "surname": "Rodriguez",
+      "email": "avarodriguez@example.com",
+      "status": "ACTIVE",
+      "balance": 120,
+      "registrationTimestamp": "2022-12-25T03:15:52.273Z"
+    },
+    {
+      "id": 918,
+      "name": "William",
+      "surname": "Wilson",
+      "email": "williamwilson@example.com",
+      "status": "DISABLED",
+      "balance": 60,
+      "registrationTimestamp": "2022-06-08T11:44:34.273Z"
+    },
+    {
+      "id": 601,
+      "name": "Sophia",
+      "surname": "Lee",
+      "email": "sophialee@example.com",
+      "status": "ACTIVE",
+      "balance": 550,
+      "registrationTimestamp": "2022-10-15T16:23:17.273Z"
+    },
+    {
+      "id": 102,
+      "name": "Ethan",
+      "surname": "Scott",
+      "email": "ethanscott@example.com",
+      "status": "ACTIVE",
+      "balance": 200,
+      "registrationTimestamp": "2022-07-26T05:08:08.273Z"
+    }
+  ]
+}
