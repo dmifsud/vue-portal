@@ -61,7 +61,7 @@ const usersModule: Module<UsersState, RootState> = {
   actions: {
     async fetchUsers({ commit }) {
       commit('SET_USERS_LOADING', true);
-      const response = await axios.get('http://localhost:3000/users');
+      const response = await axios.get('http://localhost:3000/users'); // TODO: create backend layer
       commit('SET_USERS', response.data);
     },
   },

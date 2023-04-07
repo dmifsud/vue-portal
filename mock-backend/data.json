@@ -4,7 +4,7 @@
       "id": 1,
       "name": "John",
       "surname": "Doe",
-      "email": "johndoe@amusnetgaming.com",
+      "email": "johndoe@example.com",
       "status": "ACTIVE",
       "balance": 500,
       "registrationTimestamp": "2023-03-06T18:18:22.273Z"

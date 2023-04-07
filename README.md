@@ -5,10 +5,23 @@
 yarn install
 ```
 
+### Run Mock Backend First
+```
+yarn backend
+```
+Or
+```
+npm run backend
+```
+
 ### Compiles and hot-reloads for development
 ```
 yarn serve
 ```
+
+### Vue.js Devtools
+Install [Vue.js Devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en) for visualizing components and Vuex store
+
 
 ### Compiles and minifies for production
 ```

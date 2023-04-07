@@ -47,7 +47,7 @@ app.get("/users", (req, res) => {
     (data) => {
       setTimeout(() => {
         res.send(data.users);
-      }, 500);
+      }, 1000);
       
     },
     (err) => {
